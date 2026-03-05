@@ -1,6 +1,6 @@
 $myCall = "VU33OM"
 $myGrid = "MK68"
-$refreshInterval = 180
+$refreshInterval = 240
 $alertThreshold = 5000
 
 function GridToLatLon($grid){
